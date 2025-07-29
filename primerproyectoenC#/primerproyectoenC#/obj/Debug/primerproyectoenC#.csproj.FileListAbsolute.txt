@@ -8,3 +8,4 @@ C:\Users\MINEDUCYT\OneDrive\Documentos\Progra-semi-2025\primerproyectoenC#\prime
 C:\Users\MINEDUCYT\OneDrive\Documentos\Progra-semi-2025\primerproyectoenC#\primerproyectoenC#\obj\Debug\primerproyectoenC#.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\OneDrive\Documentos\Progra-semi-2025\primerproyectoenC#\primerproyectoenC#\obj\Debug\primerproyectoenC#.exe
 C:\Users\MINEDUCYT\OneDrive\Documentos\Progra-semi-2025\primerproyectoenC#\primerproyectoenC#\obj\Debug\primerproyectoenC#.pdb
+C:\Users\MINEDUCYT\OneDrive\Documentos\Progra-semi-2025\primerproyectoenC#\primerproyectoenC#\obj\Debug\primerproyectoenC#.exe.config
